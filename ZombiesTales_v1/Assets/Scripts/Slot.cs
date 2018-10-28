@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Slot : MonoBehaviour {
 
-    public MapPosition positionInMap;
+    public GameUtils.MapPosition positionInMap;
 
 
     // Use this for initialization
@@ -17,19 +17,6 @@ public class Slot : MonoBehaviour {
 
     }
 
-    public class MapPosition {
-
-        public int posX;
-        public int posY;
-
-        public MapPosition(int x, int y) {
-
-            this.posX = x;
-            this.posY = y;
-
-        }
-        
-    }
 }
 
 
