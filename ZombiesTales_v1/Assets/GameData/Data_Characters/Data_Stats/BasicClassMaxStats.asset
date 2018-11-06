@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b47d4efac0c697943aa831d116a85272, type: 3}
+  m_Name: BasicClassMaxStats
+  m_EditorClassIdentifier: 
+  PV: 60
+  movimiento: 30
+  Fuerza: 15
+  Magia: 20
+  Defensa: 20
+  ResistenciaMagica: 20
+  Habilidad: 20
+  Velociad: 20
+  Suerte: 30
+  Constitucion: 20

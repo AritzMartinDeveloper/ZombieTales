@@ -4,6 +4,17 @@ using UnityEngine;
 
 public static class  GameUtils  {
 
+
+    
+    public enum Genders { MALE = 0, FEMALE = 1 }
+
+    public enum Weapons {
+        OBJECT_STICK = 0,
+        WEAPON_SWORD = 1, WEAPON_AXE = 2, WEAPON_LANCE = 3, WEAPON_BOW = 4,
+        MAGIC_ANIMA = 5, MAGIC_LIGHT = 6, MAGIC_DARK = 7
+    }
+
+
     public class MapPosition
     {
 

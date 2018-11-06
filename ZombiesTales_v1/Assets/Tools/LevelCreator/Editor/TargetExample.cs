@@ -2,9 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Character : MonoBehaviour {
-
-
+public class TargetExample : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
